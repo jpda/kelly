@@ -34,7 +34,7 @@
     "office-ui-fabric-react": "^7.170.3",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
-    "regenerator-runtime": "^0.13.7"
+    "regenerator-runtime": "^0.13.8"
   },
   "devDependencies": {
     "@babel/core": "^7.14.6",
