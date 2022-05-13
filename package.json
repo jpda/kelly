@@ -28,7 +28,7 @@
     "watch": "webpack --mode development --watch"
   },
   "dependencies": {
-    "@fluentui/react-hooks": "^8.2.2",
+    "@fluentui/react-hooks": "^8.5.4",
     "core-js": "^3.14.0",
     "es6-promise": "^4.2.8",
     "office-ui-fabric-react": "^7.170.3",
