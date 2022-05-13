@@ -31,7 +31,7 @@
     "@fluentui/react-hooks": "^8.2.2",
     "core-js": "^3.14.0",
     "es6-promise": "^4.2.8",
-    "office-ui-fabric-react": "^7.170.3",
+    "office-ui-fabric-react": "^7.185.3",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
     "regenerator-runtime": "^0.13.7"
